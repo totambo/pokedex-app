@@ -251,6 +251,9 @@ li p {
     top: 12%;
     left: 25%;
   }
+  .ul {
+    height: 170px;
+  }
 
   .infoContainer {
     padding: 0px;
