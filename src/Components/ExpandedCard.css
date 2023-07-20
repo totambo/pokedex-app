@@ -251,8 +251,8 @@ li p {
     top: 12%;
     left: 25%;
   }
-  .ul {
-    height: 160px;
+  ul {
+    height: 165px;
   }
 
   .infoContainer {
@@ -260,3 +260,4 @@ li p {
     gap: 1.5%;
   }
 }
+
