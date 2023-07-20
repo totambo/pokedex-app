@@ -121,7 +121,7 @@
   justify-content: flex-end;
   align-items: center;
   margin-bottom: 1.5rem;
-  gap: 2.5%;
+  gap: 1%;
 }
 
 .types {
@@ -253,11 +253,6 @@ li p {
   }
   ul {
     height: 165px;
-  }
-
-  .infoContainer {
-    padding: 0px;
-    gap: 1.5%;
   }
 }
 
